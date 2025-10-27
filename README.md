@@ -1,5 +1,4 @@
 # 🌟 ✨ To-Do List App | تطبيق قائمة المهام | タスク管理アプリ ✨ 🌟
-
 <div align="center">
 
 ### 💫 "Never give up on your dreams, keep organizing your tasks like a true hero!" 💫
@@ -56,54 +55,48 @@
 <table align="center">
 <thead>
 <tr>
-<th align="center">🎌 Feature</th>
-<th align="center">📝 English</th>
-<th align="center">🕌 العربية</th>
-<th align="center">🗾 日本語</th>
+<th align="center"> 🎌 Feature</th>
+<th align="center"> 📝 English</th>
+<th align="center"> 🇸🇦 العربية</th>
+<th align="center"> 🇯🇵 日本語</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="center">✅ <b>Add Tasks</b></td>
-<td>Easily add new tasks to your list</td>
-<td>أضف مهام جديدة بسهولة إلى قائمتك</td>
-<td>タスクを簡単に追加</td>
+<td align="center"> ✅ <b>Add Tasks</b></td>
+<td> Create new tasks with ease</td>
+<td> أنشئ مهام جديدة بسهولة</td>
+<td> 簡単にタスクを作成</td>
 </tr>
 <tr>
-<td align="center">🗑️ <b>Delete Tasks</b></td>
-<td>Remove completed tasks with one click</td>
-<td>احذف المهام المكتملة بنقرة واحدة</td>
-<td>ワンクリックでタスクを削除</td>
+<td align="center"> ✏️ <b>Edit Tasks</b></td>
+<td> Modify your tasks anytime</td>
+<td> عدّل مهامك في أي وقت</td>
+<td> いつでもタスクを編集</td>
 </tr>
 <tr>
-<td align="center">🎨 <b>Beautiful UI</b></td>
-<td>Modern and stunning user interface</td>
-<td>واجهة مستخدم عصرية ومذهلة</td>
-<td>美しくモダンなUI</td>
+<td align="center"> ❌ <b>Delete Tasks</b></td>
+<td> Remove completed or unwanted tasks</td>
+<td> أزل المهام المكتملة أو غير المرغوبة</td>
+<td> 完了/不要なタスクを削除</td>
 </tr>
 <tr>
-<td align="center">📱 <b>Responsive</b></td>
-<td>Works seamlessly on all devices</td>
-<td>يعمل بسلاسة على جميع الأجهزة</td>
-<td>全デバイス対応</td>
+<td align="center"> ✔️ <b>Mark Complete</b></td>
+<td> Track your progress with checkboxes</td>
+<td> تتبع تقدمك بمربعات الاختيار</td>
+<td> チェックボックスで進捗管理</td>
 </tr>
 <tr>
-<td align="center">⚡ <b>Fast & Light</b></td>
-<td>No external libraries - pure speed</td>
-<td>بدون مكتبات خارجية - سرعة نقية</td>
-<td>外部ライブラリ不要 - 高速</td>
+<td align="center"> 💾 <b>Local Storage</b></td>
+<td> Your tasks persist even after closing</td>
+<td> مهامك تبقى حتى بعد الإغلاق</td>
+<td> 閉じても保存される</td>
 </tr>
 <tr>
-<td align="center">🌈 <b>Animations</b></td>
-<td>Smooth and attractive transitions</td>
-<td>انتقالات سلسة وجذابة</td>
-<td>スムーズで魅力的なアニメーション</td>
-</tr>
-<tr>
-<td align="center">🎌 <b>Anime Theme</b></td>
-<td>Inspired by your favorite anime aesthetics</td>
-<td>مستوحى من جماليات الأنمي المفضلة لديك</td>
-<td>アニメ美学にインスパイア</td>
+<td align="center"> 🎨 <b>Anime Theme</b></td>
+<td> Inspired by your favorite anime aesthetics</td>
+<td> مستوحى من جماليات الأنمي المفضلة لديك</td>
+<td> アニメ美学にインスパイア</td>
 </tr>
 </tbody>
 </table>
@@ -141,9 +134,7 @@
 
 <div align="center">
 
-## 🌸 ✨ Made with Passion & Anime Spirit ✨ 🌸
-## 🌸 ✨ صُنع بشغف وروح الأنمي ✨ 🌸  
-## 🌸 ✨ 情熱とアニメスピリットで作成 ✨ 🌸
+![Made with Passion & Anime Spirit](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmdoNXdwdmZoZWpndWphNzF1cDNmZzUyamJncmpnNnJ1ZXh5OXNocSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7ND3olLypHFxC/giphy.gif)
 
 ### 💖 "Believe in your code, just like you believe in your dreams!" 💖
 
